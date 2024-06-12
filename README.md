@@ -84,12 +84,12 @@ The amount in PKR: 27800.00
 ### Currency Conversion Rate
 The conversion rates used in this application are based on USD as the base currency:
 
-1- 1 USD = 1 USD
-2- 1 USD = 0.93 EUR
-3- 1 USD = 278 PKR
-4- 1 USD = 3.67 AED
-5- 1 USD = 3.75 SAR
-6- 1 USD = 3.64 QAR
+1. 1 USD = 1 USD
+2. 1 USD = 0.93 EUR
+3. 1 USD = 278 PKR
+4. 1 USD = 3.67 AED
+5. 1 USD = 3.75 SAR
+6. 1 USD = 3.64 QAR
 
 ### Contributing 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
